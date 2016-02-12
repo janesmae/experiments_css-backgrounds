@@ -1,5 +1,7 @@
 # Past experiments - CSS Backgrounds
 
+![select](/select.gif)
+
 **Attention!** 
 
 This are just some past experiments and learing exercises with stylesheets and selection. 
